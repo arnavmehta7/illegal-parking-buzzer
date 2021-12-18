@@ -1,8 +1,9 @@
-# illegal-parking-buzzer
+# illegal-parking-buzzer 🔔 🚗 📛
 # Made by ARNAV MEHTA,Ludhiana,Punjab
 [Link to Website](https://illegalparking.netlify.app/)
 ###### Model Detects any 2 Wheelers currently included in "ACTIVAS", Cars, and if it is a normal scene like people walking ...
-1. Structure **FILES**----> Contains the audio for running
+##### STRUCTURE :- 
+FILES ----> Contains the audio for running
  <br/>
  **Model Accuracy + Loss** --> Contains results after training [accuracy full 1]
 
