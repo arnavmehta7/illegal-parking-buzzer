@@ -3,13 +3,21 @@
 [Link to Website](https://illegalparking.netlify.app/)
 ###### Model Detects any 2 Wheelers currently included in "ACTIVAS", Cars, and if it is a normal scene like people walking ...
 1. Structure
+
 FILES----> Contains the audio for running
 Model Accuracy + Loss --> Contains results after training [accuracy full 1]
+
 [Model Trained on about 355 images including images of people,different walls labelled as NORMAL because people shouldn't be labelled as something else]
+
+
+
 MODELS ----> Best Teachable model contains the teachable machine model FILE which is saved after training.
            Converted Keras + tm-my-image-model are model weights + files + config for python and Javascript respectively
            Link of Model Contains a single link file to access the model on teachable machine from browser without saving anything locally
 Illegal Parking Buzzer - working model.mp4 --> Is the Results acquired by model in live [i used my mobile camera as the input device and attached a laptop to speaker]
+
+
+
 Index.html ----> Structure of Website
 Script.js -----> Brain
 style.css -----> Design 
